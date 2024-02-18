@@ -16,7 +16,7 @@ pip install -r requirements.txt
 
 ![IMG_8355](https://github.com/HadiM2/InnoDrive/assets/97601068/3fc7d619-0d88-4fa2-b9be-f3b18a938138)
 
-### [Circuit Diagram](#circuitdiagram)
+### [Circuit Diagrams](#circuitdiagram)
 ![DuckieCricuitDigram](https://github.com/HadiM2/InnoDrive/assets/97601068/b0a54c77-b9f2-4593-9d3f-df91ba02fe39)
 ![DuckieCricuitDigram2](https://github.com/HadiM2/InnoDrive/assets/97601068/c37d7faf-13fa-4ee9-a60c-ffc12056e0ab)
 ![DuckieCricuitDigram3](https://github.com/HadiM2/InnoDrive/assets/97601068/97f94004-e0e1-43c3-a0a2-0093cc82d656)
