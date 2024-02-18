@@ -19,7 +19,7 @@ The roadmap for InnoDrive involves an extensive focus on coding, with plans to r
 
 ## Contributing
 [@hadim2](https://github.com/hadim2)  
-[@_rahat5](https://github.com/_rahat5)  
+[@_rahat5](https://github.com/_rahat15)  
 [@adiaz21](https://github.com/adiaz21)
 Circuit Diagrams
 <p align="center">
