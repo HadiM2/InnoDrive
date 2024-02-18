@@ -21,12 +21,7 @@ The roadmap for InnoDrive involves an extensive focus on coding, with plans to r
 [@hadim2](https://github.com/hadim2)  
 [@_rahat5](https://github.com/_rahat5)  
 [@adiaz21](https://github.com/adiaz21)
-
-## Requirements
-For the dependencies, run the following command:
-```bash
-pip install -r requirements.txt
-
+Circuit Diagrams
 <p align="center">
   <img src="https://github.com/HadiM2/InnoDrive/assets/97601068/b0a54c77-b9f2-4593-9d3f-df91ba02fe39" alt="Circuit Diagram 1">
 </p>
@@ -42,3 +37,8 @@ pip install -r requirements.txt
 <p align="center">
   <img src="https://github.com/HadiM2/InnoDrive/assets/97601068/4f8172e7-d565-4c9a-aa02-51434aa0f9bb" alt="Final Main Circuit">
 </p>
+
+## Requirements
+For the dependencies, run the following command:
+```bash
+pip install -r requirements.txt
