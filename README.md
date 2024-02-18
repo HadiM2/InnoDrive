@@ -26,6 +26,4 @@ pip install -r requirements.txt
 
 ![DuckieCricuitDigram4](https://github.com/HadiM2/InnoDrive/assets/97601068/f005ecd9-8d3f-4462-b23d-8b5181924c99) 
 
-![DuckieCricuitDigram5](https://github.com/HadiM2/InnoDrive/assets/97601068/f628740a-ac60-4f0a-b2d4-5a273928a5d7) 
-
 ![finalmain](https://github.com/HadiM2/InnoDrive/assets/97601068/4f8172e7-d565-4c9a-aa02-51434aa0f9bb)
