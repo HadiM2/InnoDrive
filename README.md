@@ -17,11 +17,16 @@ pip install -r requirements.txt
 ![IMG_8355](https://github.com/HadiM2/InnoDrive/assets/97601068/3fc7d619-0d88-4fa2-b9be-f3b18a938138)
 
 ### [Circuit Diagrams](#circuitdiagram)
-![DuckieCricuitDigram](https://github.com/HadiM2/InnoDrive/assets/97601068/b0a54c77-b9f2-4593-9d3f-df91ba02fe39)
-![DuckieCricuitDigram2](https://github.com/HadiM2/InnoDrive/assets/97601068/c37d7faf-13fa-4ee9-a60c-ffc12056e0ab)
-![DuckieCricuitDigram3](https://github.com/HadiM2/InnoDrive/assets/97601068/97f94004-e0e1-43c3-a0a2-0093cc82d656)
-![DuckieCricuitDigram4](https://github.com/HadiM2/InnoDrive/assets/97601068/f005ecd9-8d3f-4462-b23d-8b5181924c99)
-![DuckieCricuitDigram5](https://github.com/HadiM2/InnoDrive/assets/97601068/f628740a-ac60-4f0a-b2d4-5a273928a5d7)
+![DuckieCricuitDigram](https://github.com/HadiM2/InnoDrive/assets/97601068/b0a54c77-b9f2-4593-9d3f-df91ba02fe39) 
+Diag 1
+![DuckieCricuitDigram2](https://github.com/HadiM2/InnoDrive/assets/97601068/c37d7faf-13fa-4ee9-a60c-ffc12056e0ab) 
+Diag 2
+![DuckieCricuitDigram3](https://github.com/HadiM2/InnoDrive/assets/97601068/97f94004-e0e1-43c3-a0a2-0093cc82d656) 
+Diag 3
+![DuckieCricuitDigram4](https://github.com/HadiM2/InnoDrive/assets/97601068/f005ecd9-8d3f-4462-b23d-8b5181924c99) 
+Diag 4
+![DuckieCricuitDigram5](https://github.com/HadiM2/InnoDrive/assets/97601068/f628740a-ac60-4f0a-b2d4-5a273928a5d7) 
+Diag 5
 
 
 ![finalmain](https://github.com/HadiM2/InnoDrive/assets/97601068/4f8172e7-d565-4c9a-aa02-51434aa0f9bb)
