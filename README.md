@@ -13,3 +13,7 @@ We built InnoDrive with a combination of cutting-edge technologies, including AI
 The roadmap for InnoDrive involves an extensive focus on coding, with plans to refine and enhance the hardware prototype based on feedback from developers. An addition to the project would be including another camera module within the vehicle cabin. This module will be monitoring driver reactions, enabling the system to detect signs of drowsiness or sleepiness based on facial gestures.
 ### [Contributing](#contributing)
 @hadim2 @_rahat5 @adiaz21
+
+### [Reqs](#reqs)
+for the dependencies run the following file as
+pip install -r requirements.txt
