@@ -5,10 +5,11 @@
 <h1 align="center">InnoDrive</h1>
 
 <p align="center"><strong>InnoDrive: Drive Smart, Drive Safe, Drive You</strong></p>
-
+Part of the FEB 2024 Crimson Code Hackathon hosted by WSU, some goals are exagerated to showcase the theme of the Hackathon.
 ---
 
 ## Overview
+
 InnoDrive is an autonomous driving project aimed at revolutionizing the driving landscape. Our inspiration stems from how unpredictable human driving is – from safety concerns to wasted time at traffic lights. We envisioned a solution that solves these challenges, offering a safer, more efficient, and inclusive driving experience.
 
 ## How We Built It
