@@ -6,7 +6,7 @@
 
 <p align="center"><strong>InnoDrive: Drive Smart, Drive Safe, Drive You</strong></p>
 Part of the FEB 2024 Crimson Code Hackathon hosted by WSU, some goals are exagerated to showcase the theme of the Hackathon.
----
+
 
 ## Overview
 
